@@ -1,0 +1,8 @@
+<html>
+<frameset rows="30%,*">
+<frame src="C:\Users\hp\Desktop\links\page.html">
+<frameset cols="30%,*">
+<frame src="C:\Users\hp\Desktop\links\NAVIGATION.HTML">
+<frame src="C:\Users\hp\Desktop\links\page2.HTML">
+</frameset>
+</html>

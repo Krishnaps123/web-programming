@@ -1,0 +1,14 @@
+<html>
+<title>my page</title>
+<head>
+</head>
+<body bgcolor="green">
+<br><h1>
+<p>Mohandas College Of Science And Technology,
+Nedumangad,Anad,
+Thiruvanthapuram District,Kerala
+Affiliated to KTU</P>
+</center>
+</h1>
+</body>
+</html>
